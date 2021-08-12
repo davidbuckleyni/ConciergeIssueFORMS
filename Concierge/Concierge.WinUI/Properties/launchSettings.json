@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Concierge.WinUI": {
+      "commandName": "MsixPackage"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
